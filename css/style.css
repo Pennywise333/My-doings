@@ -1,0 +1,41 @@
+span {
+  color: blue;
+}
+h1 {
+  color: black;
+}
+h2 {
+  font-family:Arial,Helvetia,sans-serif;
+  color: orange;
+}
+h3 {
+  color: green;
+}
+p {
+  font-size:18px;
+  font-style:italic;
+}
+h4 {
+  font-size:20px;
+  font-style:bold;
+  color:indigo;
+}
+button{
+  padding:20px;
+  margin:px;
+  border:3px solid blue;
+}
+.main{
+   position:absolute;
+   top:50%;
+   left:50%;
+   display:inline-block;
+}
+  .box{
+  height:100px;
+  width:100px;
+  background-color:violet;
+  margin:10px;
+  display:inline-block;
+}
+
